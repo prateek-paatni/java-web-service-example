@@ -5,7 +5,7 @@ apply plugin: 'application'
 mainClassName = 'com.foo.Main'
 
 dependencies {
-    groovy 'org.codehaus.groovy:groovy:1.8.8'
+    complie 'org.codehaus.groovy:groovy:2.2.1'
     // Jersey client/server jars
     compile 'com.sun.jersey:jersey-server:1.13'
     compile 'com.sun.jersey:jersey-servlet:1.13'
